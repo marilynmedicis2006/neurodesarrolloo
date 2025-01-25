@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Neurodesarrollo en los Ciclos de Vida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .content {
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        .diagrama, .imagen {
+            width: 100%;
+            height: auto;
+        }
+        .mapa-mental, .tabla-comparativa, .video {
+            margin-top: 30px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        .video iframe {
+            width: 100%;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>El Neurodesarrollo en los Ciclos de Vida</h1>
+    <h2>Perspectiva del desarrollo humano y sus etapas</h2>
+</header>
+
+<section>
+    <h2>Diapositiva 1: Título y Introducción</h2>
+    <div class="content">
+        <p>El neurodesarrollo se refiere a los cambios biológicos y psicológicos del sistema nervioso desde la concepción hasta la vejez.</p>
+        <p>En esta presentación exploraremos:</p>
+        <ul>
+            <li>El ciclo de vida humano según Paul B. Baltes.</li>
+            <li>Las etapas del neurodesarrollo.</li>
+            <li>La interacción entre biología, cultura y contexto histórico.</li>
+        </ul>
+        <img src="brain_evolution_image.jpg" alt="Cerebro en evolución" class="imagen">
+    </div>
+</section>
+
+<section>
+    <h2>Diapositiva 2: Ciclo Vital Humano</h2>
+    <div class="content">
+        <p>Principios del desarrollo del ciclo vital (Paul B. Baltes):</p>
+        <ul>
+            <li>Dura toda la vida.</li>
+            <li>Es multidimensional.</li>
+            <li>Es multidireccional.</li>
+            <li>La influencia de biología y cultura varía.</li>
+            <li>Implica redistribución de recursos.</li>
+            <li>Es plástico o modificable.</li>
+            <li>Influye el contexto histórico-cultural.</li>
+        </ul>
+        <p>Ciclos de vida:</p>
+        <ul>
+            <li>Infancia</li>
+            <li>Niñez</li>
+            <li>Adolescencia (puberal, nuclear, juvenil)</li>
+            <li>Adultez</li>
+            <li>Vejez</li>
+            <li>Ancianidad</li>
+        </ul>
+        <img src="ciclo_vital_diagrama.jpg" alt="Diagrama de ciclo vital" class="diagrama">
+    </div>
+</section>
+
+<section>
+    <h2>Diapositiva 3: Neurodesarrollo y sus Etapas</h2>
+    <div class="content">
+        <p>Etapas del neurodesarrollo:</p>
+        <ul>
+            <li><strong>Neurogénesis:</strong> Formación de neuronas.</li>
+            <li><strong>Migración neuronal:</strong> Desplazamiento hacia las áreas donde serán funcionales.</li>
+            <li><strong>Sinaptogénesis:</strong> Creación de conexiones neuronales.</li>
+            <li><strong>Poda sináptica:</strong> Eliminación de conexiones innecesarias.</li>
+            <li><strong>Madurez neuropsicológica:</strong> Consolidación funcional del cerebro.</li>
+        </ul>
+        <img src="neurodesarrollo_linea_tiempo.jpg" alt="Línea de tiempo del neurodesarrollo" class="imagen">
+    </div>
+</section>
+
+<section>
+    <h2>Diapositiva 4: Relación entre Ciclo Vital y Neurodesarrollo</h2>
+    <div class="content">
+        <p>Cada etapa del ciclo vital está influenciada por el desarrollo y madurez del sistema nervioso.</p>
+        <p>Ejemplos clave:</p>
+        <ul>
+            <li><strong>Infancia:</strong> Rápida sinaptogénesis.</li>
+            <li><strong>Adolescencia:</strong> Reorganización cerebral y poda sináptica.</li>
+            <li><strong>Adultez:</strong> Estabilidad y especialización cerebral.</li>
+            <li><strong>Vejez:</strong> Cambios en la plasticidad neuronal.</li>
+        </ul>
+        <div class="tabla-comparativa">
+            <table border="1" width="100%">
+                <thead>
+                    <tr>
+                        <th>Etapa del Ciclo Vital</th>
+                        <th>Proceso de Neurodesarrollo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Infancia</td>
+                        <td>Sinaptogénesis</td>
+                    </tr>
+                    <tr>
+                        <td>Adolescencia</td>
+                        <td>Poda sináptica</td>
+                    </tr>
+                    <tr>
+                        <td>Adultez</td>
+                        <td>Estabilidad cerebral</td>
+                    </tr>
+                    <tr>
+                        <td>Vejez</td>
+                        <td>Cambios en plasticidad neuronal</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Diapositiva 5: Factores que Influyen en el Neurodesarrollo</h2>
+    <div class="content">
+        <p>Factores que influyen en el neurodesarrollo:</p>
+        <ul>
+            <li><strong>Genéticos:</strong> Herencia y mutaciones.</li>
+            <li><strong>Aambientales:</strong> Nutrición, estimulación cognitiva.</li>
+            <li><strong>Culturales:</strong> Prácticas de crianza.</li>
+            <li><strong>Históricos:</strong> Avances médicos y educativos.</li>
+        </ul>
+        <img src="mapa_mental_factores.jpg" alt="Mapa mental de factores" class="mapa-mental">
+    </div>
+</section>
+
+<section>
+    <h2>Diapositiva 6: Conclusión y Reflexión</h2>
+    <div class="content">
+        <p>El neurodesarrollo es un proceso dinámico que abarca todo el ciclo vital.</p>
+        <p>La interacción entre biología, cultura y contexto histórico es esencial para entender el desarrollo humano.</p>
+        <p><strong>Reflexionemos:</strong> ¿Cómo nuestras acciones hoy impactan el desarrollo del cerebro en el futuro?</p>
+        <img src="cerebro_conexion.jpg" alt="Cerebro con conexiones culturales y biológicas" class="imagen">
+    </div>
+</section>
+
+<section>
+    <h2>Diapositiva 7: Recursos Audiovisuales</h2>
+    <div class="content">
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=Historia_de_una_vida" target="_blank">Historia de una vida (Desarrollo Humano)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=Etapas_del_Neurodesarrollo" target="_blank">Etapas del Neurodesarrollo</a></li>
+        </ul>
+        <div class="video">
+            <iframe src="https://www.youtube.com/embed/Historia_de_una_vida" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>Referencias Bibliográficas:</p>
+    <ul>
+        <li>Medina, Caro, Muñoz, Leyva, Moreno y Vega (2015). "Etapas del desarrollo del cerebro."</li>
+        <li>Yáñez (2016); Valadez (2008). "Neurogénesis."</li>
+        <li>Paul B. Baltes. "Principios del desarrollo del ciclo vital."</li>
+    </ul>
+</footer>
+
+</body>
+</html>
